@@ -63,6 +63,18 @@
   gap: 40px;
 }
 
+.top_leaf_pos {
+  top: -4%;
+  left: 0%;
+  z-index: -1;
+}
+
+.bottom_leaf_pos {
+  bottom: -6%;
+  right: 0;
+  z-index: -1;
+}
+
 @media (min-width:576px) {
   .cutting_main_box {
     max-width: 1140px;
