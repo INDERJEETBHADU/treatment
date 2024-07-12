@@ -63,10 +63,10 @@ function Technology() {
             </div>
           </div>
         </Container>
-        <div className=" position-absolute top_leaf_pos">
+        <div className=" position-absolute d-none d-md-block top_leaf_pos">
           <img src={top_leaf} alt="top_leaf" />
         </div>
-        <div className=" position-absolute bottom_leaf_pos">
+        <div className=" position-absolute d-none d-md-block bottom_leaf_pos">
           <img src={bottom_leaf} alt="bottom_leaf" />
         </div>
       </div>

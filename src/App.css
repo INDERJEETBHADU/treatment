@@ -27,7 +27,7 @@
 }
 
 .heading_line {
-  max-width: 60px;
+  max-width: 40px;
   height: 2px;
   background-color: var(--color-green);
 }
@@ -94,6 +94,12 @@
 
   .mt_18 {
     margin-top: 27.25px;
+  }
+
+  .heading_line {
+    max-width: 60px;
+    height: 2px;
+    background-color: var(--color-green);
   }
 
 }
